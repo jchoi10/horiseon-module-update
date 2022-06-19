@@ -20,7 +20,7 @@
 
 ## Screenshot of final webpage
 
-![screenshot](../module1/assets/images/_Users_michaelchoi_Documents_git-init_module1-challenge_index.html.png)
+![screenshot](/assets/images/_Users_michaelchoi_Documents_git-init_module1-challenge_index.html.png)
 
 ## Live URL
 
